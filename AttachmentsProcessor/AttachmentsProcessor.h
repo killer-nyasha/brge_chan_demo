@@ -18,12 +18,12 @@ using byte = unsigned char;
 #include <queue>
 #include <map>
 
-#include "C:\Users\Isstrebitel\git\BEST-RPG-GAME-EVER\BestRpgGameEver\SstpContent\vectors.h"
+#include "vectors.h"
 
-#include "..\LizardScript\LizardScriptCompiler.h"
-#include "..\LizardScript\Runtime.h"
-#include "..\LizardScript\LizardScriptLibrary.h"
-#include "..\LizardScript\metagen.h"
+#include "..\LizardScript\LizardScript\LizardScriptCompiler.h"
+#include "..\LizardScript\LizardScript\Runtime.h"
+#include "..\LizardScript\LizardScript\LizardScriptLibrary.h"
+#include "..\LizardScript\LizardScript\metagen.h"
 
 //#pragma pack(push, 1)
 struct PixelData

@@ -130,6 +130,7 @@
   <ItemGroup>
     <ClInclude Include="AttachmentsProcessor.h" />
     <ClInclude Include="stdafx.h" />
+    <ClInclude Include="vectors.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="AssemblyInfo.cpp" />
@@ -149,7 +150,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\LizardScript\LizardScript.vcxproj">
+    <ProjectReference Include="..\lizardscript\LizardScript\LizardScript.vcxproj">
       <Project>{0f3d7519-6f61-432e-b718-c71c3ec74819}</Project>
     </ProjectReference>
   </ItemGroup>
