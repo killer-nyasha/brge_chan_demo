@@ -1,0 +1,3 @@
+[submodule "lizardscript"]
+	path = lizardscript
+	url = https://github.com/killer-nyasha/lizardscript
